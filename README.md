@@ -10,6 +10,8 @@ Quick Rent is a responsive and animated web application for renting premium gadg
 
 CheckOut the Deployed Version of This project: https://quickrentalgadgets.netlify.app/
 
+![image](https://github.com/user-attachments/assets/1aef87d2-e457-4f03-b92c-5d00ab8a3e75)
+
 ✨Features:✨
 
 📱 Responsive Design: Mobile-first design optimized for all screen sizes.
