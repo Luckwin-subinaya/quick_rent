@@ -48,18 +48,6 @@ Ensure you have the following:
          git clone https://github.com/Luckwin-subinaya/quick_rent.git
          cd quick-rent
 
-✨Project Structure✨
-
-quick-rent/
-├── index.html       # Main HTML file
-├── css/
-│   └── styles.css   # Global styles
-├── js/
-│   └── app.js       # Main JavaScript file
-├── assets/
-│   ├── images/      # Images and icons
-│   └── fonts/       # Custom fonts (if any)
-├── README.md        # Documentation
 
 
 ✨How It Works:✨
