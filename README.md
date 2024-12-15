@@ -45,7 +45,7 @@ Ensure you have the following:
            A modern web browser (e.g., Chrome, Edge, Firefox).
 ✨Installation✨
 1.Clone the repository:
-         git clone https://github.com/your-username/quick-rent.git
+         git clone https://github.com/Luckwin-subinaya/quick_rent.git
          cd quick-rent
 
 ✨Project Structure✨
