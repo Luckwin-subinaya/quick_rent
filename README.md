@@ -8,7 +8,7 @@ Welcome to our comprehensive tutorial on building a responsive Gadget rental web
 
 Quick Rent is a responsive and animated web application for renting premium gadgets. It offers a seamless, user-friendly experience where users can browse gadgets, select their rental dates, and book their desired items with ease. This project is built using React.js and includes smooth animations and a modern UI design.
 
-CheckOut the Deployed Version of This project: https://quickrentalgadgets.netlify.app/
+CheckOut here for Live Demo: https://quickrentalgadgets.netlify.app/
 
 ![image](https://github.com/user-attachments/assets/1aef87d2-e457-4f03-b92c-5d00ab8a3e75)
 
